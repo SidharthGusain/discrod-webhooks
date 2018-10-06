@@ -1,0 +1,18 @@
+{
+  "embeds": [
+    {
+      "title": "Your Team is Confirmed for Participation",
+      "color": 65397,
+      "fields": [
+        {
+          "name": "TEAM NAME",
+          "value": "Soorme"
+        },
+        {
+          "name": "TEAM NUMBER",
+          "value": "001"
+        }
+      ]
+    }
+  ]
+}
