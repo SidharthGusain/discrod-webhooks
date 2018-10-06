@@ -1,0 +1,21 @@
+{
+  "embeds": [
+    {
+      "title": "Your Team Registration is rejected for below reason",
+      "color": 14177041,
+      "fields": [
+        {
+          "name": "TEAM NAME",
+          "value": "Soorme"
+        },
+        {
+          "name": "REASON FOR REJECTION",
+          "value": "Player number 2 and 3 are not in our server"
+        }
+      ],
+      "footer":{
+      	"text": "Kindly contact @Admin for further Actions"
+      }
+    }
+  ]
+}
