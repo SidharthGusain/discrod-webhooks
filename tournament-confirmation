@@ -12,7 +12,10 @@
           "name": "TEAM NUMBER",
           "value": "001"
         }
-      ]
+      ],
+      "footer":{
+      	"text": "All the Best. Play Fair."
+      }
     }
   ]
 }
